@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<Style id="SessionStyle2">
+			<LineStyle>
+				<color>ff5a28a4</color>
+				<width>2.000000</width>
+			</LineStyle>
+		</Style>
+		<Style id="MarkerStyleNo_ID">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_No_Id.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStyleNYNO">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYNO.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStylePIPI">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPI.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStylePINA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PINA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStyleNYLE">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_NYLE.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStylePIPY">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_PIPY.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+		</Style>
+		<Style id="MarkerStyleBABA">
+			<IconStyle>
+				<Icon>
+					<href>http://www.wildlifeacoustics.com/echo-meter-touch/gps/marker_BABA.png</href>
+				</Icon>
+				<hotSpot x="0.50" y="0.00" xunits="fraction" yunits="fraction" />
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>No_ID_20160606_214126</name>
+			<description><![CDATA[6 June 2016 21:41<br/>Latitude:52.66703<br/>Longitude:-1.061046]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.061046,52.667034,75.547791</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_214217</name>
+			<description><![CDATA[6 June 2016 21:42<br/>Latitude:52.66706<br/>Longitude:-1.061965]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.061965,52.667057,69.711548</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_220502</name>
+			<description><![CDATA[6 June 2016 22:05<br/>Latitude:52.66474<br/>Longitude:-1.06818]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.068180,52.664738,65.560303</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_220512</name>
+			<description><![CDATA[6 June 2016 22:05<br/>Latitude:52.66477<br/>Longitude:-1.068326]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068326,52.664772,64.922974</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_220520</name>
+			<description><![CDATA[6 June 2016 22:05<br/>Latitude:52.66478<br/>Longitude:-1.068485]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.068485,52.664776,66.442322</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_220538</name>
+			<description><![CDATA[6 June 2016 22:05<br/>Latitude:52.66478<br/>Longitude:-1.068796]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.068796,52.664780,67.315430</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_220544</name>
+			<description><![CDATA[6 June 2016 22:05<br/>Latitude:52.66478<br/>Longitude:-1.068796]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.068796,52.664780,67.315430</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_220602</name>
+			<description><![CDATA[6 June 2016 22:06<br/>Latitude:52.66481<br/>Longitude:-1.0691]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.069100,52.664806,67.077454</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_220610</name>
+			<description><![CDATA[6 June 2016 22:06<br/>Latitude:52.66484<br/>Longitude:-1.069251]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.069251,52.664837,69.064148</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_220615</name>
+			<description><![CDATA[6 June 2016 22:06<br/>Latitude:52.66488<br/>Longitude:-1.069388]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.069388,52.664875,70.220337</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_220725</name>
+			<description><![CDATA[6 June 2016 22:07<br/>Latitude:52.66512<br/>Longitude:-1.07017]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.070170,52.665119,67.635193</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_221004</name>
+			<description><![CDATA[6 June 2016 22:10<br/>Latitude:52.66383<br/>Longitude:-1.071114]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.071114,52.663826,71.139526</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_221205</name>
+			<description><![CDATA[6 June 2016 22:12<br/>Latitude:52.66249<br/>Longitude:-1.071856]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.071856,52.662491,77.237366</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221557</name>
+			<description><![CDATA[6 June 2016 22:15<br/>Latitude:52.66105<br/>Longitude:-1.074304]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074304,52.661053,83.166504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221600</name>
+			<description><![CDATA[6 June 2016 22:16<br/>Latitude:52.66105<br/>Longitude:-1.074304]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074304,52.661053,83.166504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221609</name>
+			<description><![CDATA[6 June 2016 22:16<br/>Latitude:52.66105<br/>Longitude:-1.074304]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074304,52.661053,83.166504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221616</name>
+			<description><![CDATA[6 June 2016 22:16<br/>Latitude:52.66105<br/>Longitude:-1.074304]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074304,52.661053,83.166504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221621</name>
+			<description><![CDATA[6 June 2016 22:16<br/>Latitude:52.66105<br/>Longitude:-1.074304]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074304,52.661053,83.166504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221628</name>
+			<description><![CDATA[6 June 2016 22:16<br/>Latitude:52.66109<br/>Longitude:-1.07445]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074450,52.661087,81.113281</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221635</name>
+			<description><![CDATA[6 June 2016 22:16<br/>Latitude:52.66109<br/>Longitude:-1.07445]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074450,52.661087,81.113281</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221642</name>
+			<description><![CDATA[6 June 2016 22:16<br/>Latitude:52.6611<br/>Longitude:-1.074596]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074596,52.661102,79.716431</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221713</name>
+			<description><![CDATA[6 June 2016 22:17<br/>Latitude:52.66114<br/>Longitude:-1.074743]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074743,52.661144,79.518494</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221858</name>
+			<description><![CDATA[6 June 2016 22:18<br/>Latitude:52.66114<br/>Longitude:-1.074743]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074743,52.661144,79.518494</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221905</name>
+			<description><![CDATA[6 June 2016 22:19<br/>Latitude:52.66114<br/>Longitude:-1.074743]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074743,52.661144,79.518494</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221915</name>
+			<description><![CDATA[6 June 2016 22:19<br/>Latitude:52.66114<br/>Longitude:-1.074743]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074743,52.661144,79.518494</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221922</name>
+			<description><![CDATA[6 June 2016 22:19<br/>Latitude:52.66114<br/>Longitude:-1.074743]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074743,52.661144,79.518494</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_221929</name>
+			<description><![CDATA[6 June 2016 22:19<br/>Latitude:52.66114<br/>Longitude:-1.074743]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074743,52.661144,79.518494</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222001</name>
+			<description><![CDATA[6 June 2016 22:20<br/>Latitude:52.66114<br/>Longitude:-1.074743]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074743,52.661144,79.518494</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222044</name>
+			<description><![CDATA[6 June 2016 22:20<br/>Latitude:52.66099<br/>Longitude:-1.075068]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075068,52.660988,79.397034</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222048</name>
+			<description><![CDATA[6 June 2016 22:20<br/>Latitude:52.66099<br/>Longitude:-1.075068]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075068,52.660988,79.397034</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222143</name>
+			<description><![CDATA[6 June 2016 22:21<br/>Latitude:52.66047<br/>Longitude:-1.074767]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074767,52.660465,76.027222</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222227</name>
+			<description><![CDATA[6 June 2016 22:22<br/>Latitude:52.66031<br/>Longitude:-1.074891]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074891,52.660305,76.656067</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222329</name>
+			<description><![CDATA[6 June 2016 22:23<br/>Latitude:52.65989<br/>Longitude:-1.075217]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075217,52.659885,69.727173</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222334</name>
+			<description><![CDATA[6 June 2016 22:23<br/>Latitude:52.65979<br/>Longitude:-1.075266]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075266,52.659790,69.169434</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_222353</name>
+			<description><![CDATA[6 June 2016 22:23<br/>Latitude:52.6596<br/>Longitude:-1.075226]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.075226,52.659599,71.082275</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222401</name>
+			<description><![CDATA[6 June 2016 22:24<br/>Latitude:52.65955<br/>Longitude:-1.075372]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075372,52.659554,71.111877</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222429</name>
+			<description><![CDATA[6 June 2016 22:24<br/>Latitude:52.6594<br/>Longitude:-1.075323]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075323,52.659405,72.209351</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222433</name>
+			<description><![CDATA[6 June 2016 22:24<br/>Latitude:52.65934<br/>Longitude:-1.075223]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075223,52.659336,72.131592</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222453</name>
+			<description><![CDATA[6 June 2016 22:24<br/>Latitude:52.65915<br/>Longitude:-1.075185]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075185,52.659149,71.455383</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222501</name>
+			<description><![CDATA[6 June 2016 22:25<br/>Latitude:52.65905<br/>Longitude:-1.075252]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075252,52.659054,72.005127</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222506</name>
+			<description><![CDATA[6 June 2016 22:25<br/>Latitude:52.65905<br/>Longitude:-1.075252]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075252,52.659054,72.005127</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222510</name>
+			<description><![CDATA[6 June 2016 22:25<br/>Latitude:52.65896<br/>Longitude:-1.075283]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075283,52.658962,71.926331</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222531</name>
+			<description><![CDATA[6 June 2016 22:25<br/>Latitude:52.6588<br/>Longitude:-1.075416]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075416,52.658802,72.212585</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222603</name>
+			<description><![CDATA[6 June 2016 22:26<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222642</name>
+			<description><![CDATA[6 June 2016 22:26<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222652</name>
+			<description><![CDATA[6 June 2016 22:26<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222713</name>
+			<description><![CDATA[6 June 2016 22:27<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222724</name>
+			<description><![CDATA[6 June 2016 22:27<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222747</name>
+			<description><![CDATA[6 June 2016 22:27<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222755</name>
+			<description><![CDATA[6 June 2016 22:27<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222806</name>
+			<description><![CDATA[6 June 2016 22:28<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222820</name>
+			<description><![CDATA[6 June 2016 22:28<br/>Latitude:52.65872<br/>Longitude:-1.075484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075484,52.658722,72.249268</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222930</name>
+			<description><![CDATA[6 June 2016 22:29<br/>Latitude:52.65835<br/>Longitude:-1.075138]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075138,52.658348,70.810974</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_222949</name>
+			<description><![CDATA[6 June 2016 22:29<br/>Latitude:52.65817<br/>Longitude:-1.075222]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075222,52.658173,73.133118</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223007</name>
+			<description><![CDATA[6 June 2016 22:30<br/>Latitude:52.65823<br/>Longitude:-1.075527]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075527,52.658230,74.973938</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223029</name>
+			<description><![CDATA[6 June 2016 22:30<br/>Latitude:52.6583<br/>Longitude:-1.075829]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075829,52.658298,76.128235</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223123</name>
+			<description><![CDATA[6 June 2016 22:31<br/>Latitude:52.65876<br/>Longitude:-1.076748]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.076748,52.658756,75.321960</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223219</name>
+			<description><![CDATA[6 June 2016 22:32<br/>Latitude:52.65931<br/>Longitude:-1.0769]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.076900,52.659306,72.944946</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223228</name>
+			<description><![CDATA[6 June 2016 22:32<br/>Latitude:52.65939<br/>Longitude:-1.076824]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.076824,52.659386,72.414978</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223237</name>
+			<description><![CDATA[6 June 2016 22:32<br/>Latitude:52.65946<br/>Longitude:-1.076732]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.076732,52.659458,72.680969</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223258</name>
+			<description><![CDATA[6 June 2016 22:32<br/>Latitude:52.65964<br/>Longitude:-1.076375]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.076375,52.659637,73.416504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINA_20160606_223315</name>
+			<description><![CDATA[6 June 2016 22:33<br/>Latitude:52.6597<br/>Longitude:-1.076256]]></description>
+			<styleUrl>#MarkerStylePINA</styleUrl>
+			<Point>
+				<coordinates>-1.076256,52.659702,74.593018</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223340</name>
+			<description><![CDATA[6 June 2016 22:33<br/>Latitude:52.65986<br/>Longitude:-1.07607]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.076070,52.659863,74.628723</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINA_20160606_223408</name>
+			<description><![CDATA[6 June 2016 22:34<br/>Latitude:52.66021<br/>Longitude:-1.075868]]></description>
+			<styleUrl>#MarkerStylePINA</styleUrl>
+			<Point>
+				<coordinates>-1.075868,52.660213,74.015320</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223445</name>
+			<description><![CDATA[6 June 2016 22:34<br/>Latitude:52.66056<br/>Longitude:-1.075729]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075729,52.660564,72.190125</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223500</name>
+			<description><![CDATA[6 June 2016 22:35<br/>Latitude:52.66076<br/>Longitude:-1.075727]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075727,52.660759,72.535645</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223511</name>
+			<description><![CDATA[6 June 2016 22:35<br/>Latitude:52.6609<br/>Longitude:-1.075522]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.075522,52.660904,73.517395</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223827</name>
+			<description><![CDATA[6 June 2016 22:38<br/>Latitude:52.66263<br/>Longitude:-1.074319]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074319,52.662632,74.623352</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_223840</name>
+			<description><![CDATA[6 June 2016 22:38<br/>Latitude:52.6627<br/>Longitude:-1.074226]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.074226,52.662701,74.786255</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_224217</name>
+			<description><![CDATA[6 June 2016 22:42<br/>Latitude:52.66487<br/>Longitude:-1.072468]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.072468,52.664867,64.682983</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_224223</name>
+			<description><![CDATA[6 June 2016 22:42<br/>Latitude:52.66496<br/>Longitude:-1.072442]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.072442,52.664963,63.747620</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_224356</name>
+			<description><![CDATA[6 June 2016 22:43<br/>Latitude:52.66506<br/>Longitude:-1.072394]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.072394,52.665058,63.526917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYNO_20160606_224413</name>
+			<description><![CDATA[6 June 2016 22:44<br/>Latitude:52.66506<br/>Longitude:-1.072394]]></description>
+			<styleUrl>#MarkerStyleNYNO</styleUrl>
+			<Point>
+				<coordinates>-1.072394,52.665058,63.526917</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_224757</name>
+			<description><![CDATA[6 June 2016 22:47<br/>Latitude:52.66539<br/>Longitude:-1.071553]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.071553,52.665390,62.967712</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NYLE_20160606_224930</name>
+			<description><![CDATA[6 June 2016 22:49<br/>Latitude:52.6658<br/>Longitude:-1.070866]]></description>
+			<styleUrl>#MarkerStyleNYLE</styleUrl>
+			<Point>
+				<coordinates>-1.070866,52.665802,64.202454</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINA_20160606_225111</name>
+			<description><![CDATA[6 June 2016 22:51<br/>Latitude:52.66644<br/>Longitude:-1.071103]]></description>
+			<styleUrl>#MarkerStylePINA</styleUrl>
+			<Point>
+				<coordinates>-1.071103,52.666435,60.511047</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_225204</name>
+			<description><![CDATA[6 June 2016 22:52<br/>Latitude:52.667<br/>Longitude:-1.071236]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.071236,52.667000,61.415894</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINA_20160606_225304</name>
+			<description><![CDATA[6 June 2016 22:53<br/>Latitude:52.66738<br/>Longitude:-1.071298]]></description>
+			<styleUrl>#MarkerStylePINA</styleUrl>
+			<Point>
+				<coordinates>-1.071298,52.667377,62.681458</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_225635</name>
+			<description><![CDATA[6 June 2016 22:56<br/>Latitude:52.66833<br/>Longitude:-1.071223]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.071223,52.668331,63.393433</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_225645</name>
+			<description><![CDATA[6 June 2016 22:56<br/>Latitude:52.66843<br/>Longitude:-1.071213]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.071213,52.668430,62.677429</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_225714</name>
+			<description><![CDATA[6 June 2016 22:57<br/>Latitude:52.66863<br/>Longitude:-1.071218]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.071218,52.668629,60.522949</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_225727</name>
+			<description><![CDATA[6 June 2016 22:57<br/>Latitude:52.66872<br/>Longitude:-1.071183]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.071183,52.668720,61.574829</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_225950</name>
+			<description><![CDATA[6 June 2016 22:59<br/>Latitude:52.66967<br/>Longitude:-1.071668]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.071668,52.669674,60.122192</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_230011</name>
+			<description><![CDATA[6 June 2016 23:00<br/>Latitude:52.66985<br/>Longitude:-1.071791]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.071791,52.669849,60.381714</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_230045</name>
+			<description><![CDATA[6 June 2016 23:00<br/>Latitude:52.67015<br/>Longitude:-1.071558]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.071558,52.670151,63.195862</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_230102</name>
+			<description><![CDATA[6 June 2016 23:01<br/>Latitude:52.67027<br/>Longitude:-1.071319]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.071319,52.670273,65.043091</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_230111</name>
+			<description><![CDATA[6 June 2016 23:01<br/>Latitude:52.67033<br/>Longitude:-1.071198]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.071198,52.670330,63.588562</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_230115</name>
+			<description><![CDATA[6 June 2016 23:01<br/>Latitude:52.67033<br/>Longitude:-1.071198]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.071198,52.670330,63.588562</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_230124</name>
+			<description><![CDATA[6 June 2016 23:01<br/>Latitude:52.67038<br/>Longitude:-1.071064]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.071064,52.670376,62.542358</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_230139</name>
+			<description><![CDATA[6 June 2016 23:01<br/>Latitude:52.67034<br/>Longitude:-1.070921]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.070921,52.670338,62.796448</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_230247</name>
+			<description><![CDATA[6 June 2016 23:02<br/>Latitude:52.67039<br/>Longitude:-1.070729]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.070729,52.670395,68.465820</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_230311</name>
+			<description><![CDATA[6 June 2016 23:03<br/>Latitude:52.67055<br/>Longitude:-1.070695]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.070695,52.670551,69.957703</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_230335</name>
+			<description><![CDATA[6 June 2016 23:03<br/>Latitude:52.6707<br/>Longitude:-1.070307]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.070307,52.670700,69.665588</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_230401</name>
+			<description><![CDATA[6 June 2016 23:04<br/>Latitude:52.67085<br/>Longitude:-1.069908]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.069908,52.670849,70.635498</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_230514</name>
+			<description><![CDATA[6 June 2016 23:05<br/>Latitude:52.67136<br/>Longitude:-1.068782]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.068782,52.671360,71.577942</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_230726</name>
+			<description><![CDATA[6 June 2016 23:07<br/>Latitude:52.67261<br/>Longitude:-1.06787]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067870,52.672607,73.966553</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_230742</name>
+			<description><![CDATA[6 June 2016 23:07<br/>Latitude:52.67269<br/>Longitude:-1.067788]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067788,52.672691,73.605286</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_230806</name>
+			<description><![CDATA[6 June 2016 23:08<br/>Latitude:52.67265<br/>Longitude:-1.067365]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067365,52.672649,76.342285</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_230819</name>
+			<description><![CDATA[6 June 2016 23:08<br/>Latitude:52.67261<br/>Longitude:-1.067215]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067215,52.672611,76.260803</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231016</name>
+			<description><![CDATA[6 June 2016 23:10<br/>Latitude:52.67221<br/>Longitude:-1.065484]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.065484,52.672207,74.354797</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231025</name>
+			<description><![CDATA[6 June 2016 23:10<br/>Latitude:52.67212<br/>Longitude:-1.06542]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.065420,52.672119,73.219177</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231042</name>
+			<description><![CDATA[6 June 2016 23:10<br/>Latitude:52.67205<br/>Longitude:-1.065515]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.065515,52.672047,72.084595</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_231100</name>
+			<description><![CDATA[6 June 2016 23:11<br/>Latitude:52.67197<br/>Longitude:-1.065597]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.065597,52.671967,72.397217</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_231117</name>
+			<description><![CDATA[6 June 2016 23:11<br/>Latitude:52.67182<br/>Longitude:-1.065762]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.065762,52.671818,70.799805</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_231121</name>
+			<description><![CDATA[6 June 2016 23:11<br/>Latitude:52.67173<br/>Longitude:-1.065851]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.065851,52.671734,70.756653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231129</name>
+			<description><![CDATA[6 June 2016 23:11<br/>Latitude:52.67173<br/>Longitude:-1.065851]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.065851,52.671734,70.756653</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231145</name>
+			<description><![CDATA[6 June 2016 23:11<br/>Latitude:52.67149<br/>Longitude:-1.066068]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.066068,52.671494,71.457397</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231151</name>
+			<description><![CDATA[6 June 2016 23:11<br/>Latitude:52.67149<br/>Longitude:-1.066068]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.066068,52.671494,71.457397</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231157</name>
+			<description><![CDATA[6 June 2016 23:11<br/>Latitude:52.67141<br/>Longitude:-1.066144]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.066144,52.671406,71.086121</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231211</name>
+			<description><![CDATA[6 June 2016 23:12<br/>Latitude:52.67124<br/>Longitude:-1.066288]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.066288,52.671242,70.843262</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231221</name>
+			<description><![CDATA[6 June 2016 23:12<br/>Latitude:52.67116<br/>Longitude:-1.066379]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.066379,52.671162,71.476807</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PINA_20160606_231257</name>
+			<description><![CDATA[6 June 2016 23:12<br/>Latitude:52.67083<br/>Longitude:-1.066695]]></description>
+			<styleUrl>#MarkerStylePINA</styleUrl>
+			<Point>
+				<coordinates>-1.066695,52.670834,70.648438</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231313</name>
+			<description><![CDATA[6 June 2016 23:13<br/>Latitude:52.67067<br/>Longitude:-1.066848]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.066848,52.670673,70.677551</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231330</name>
+			<description><![CDATA[6 June 2016 23:13<br/>Latitude:52.67051<br/>Longitude:-1.067027]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067027,52.670513,69.584045</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231348</name>
+			<description><![CDATA[6 June 2016 23:13<br/>Latitude:52.67036<br/>Longitude:-1.067193]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067193,52.670361,68.746948</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231402</name>
+			<description><![CDATA[6 June 2016 23:14<br/>Latitude:52.6702<br/>Longitude:-1.067364]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067364,52.670197,69.423279</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231418</name>
+			<description><![CDATA[6 June 2016 23:14<br/>Latitude:52.67005<br/>Longitude:-1.067545]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067545,52.670052,69.027161</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231424</name>
+			<description><![CDATA[6 June 2016 23:14<br/>Latitude:52.67005<br/>Longitude:-1.067545]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067545,52.670052,69.027161</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_231441</name>
+			<description><![CDATA[6 June 2016 23:14<br/>Latitude:52.6699<br/>Longitude:-1.067749]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.067749,52.669899,69.213806</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPY_20160606_231444</name>
+			<description><![CDATA[6 June 2016 23:14<br/>Latitude:52.66982<br/>Longitude:-1.06785]]></description>
+			<styleUrl>#MarkerStylePIPY</styleUrl>
+			<Point>
+				<coordinates>-1.067850,52.669819,69.265320</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231452</name>
+			<description><![CDATA[6 June 2016 23:14<br/>Latitude:52.66974<br/>Longitude:-1.067957]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.067957,52.669743,68.777954</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231509</name>
+			<description><![CDATA[6 June 2016 23:15<br/>Latitude:52.66959<br/>Longitude:-1.068161]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068161,52.669594,68.194214</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231519</name>
+			<description><![CDATA[6 June 2016 23:15<br/>Latitude:52.66954<br/>Longitude:-1.06829]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068290,52.669537,68.145386</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231538</name>
+			<description><![CDATA[6 June 2016 23:15<br/>Latitude:52.66958<br/>Longitude:-1.068435]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068435,52.669579,67.145996</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231554</name>
+			<description><![CDATA[6 June 2016 23:15<br/>Latitude:52.66968<br/>Longitude:-1.068696]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068696,52.669678,66.929504</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231618</name>
+			<description><![CDATA[6 June 2016 23:16<br/>Latitude:52.66959<br/>Longitude:-1.06864]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068640,52.669594,69.175659</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231635</name>
+			<description><![CDATA[6 June 2016 23:16<br/>Latitude:52.66944<br/>Longitude:-1.068461]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068461,52.669437,71.659180</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231640</name>
+			<description><![CDATA[6 June 2016 23:16<br/>Latitude:52.66935<br/>Longitude:-1.068516]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068516,52.669346,71.918518</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231649</name>
+			<description><![CDATA[6 June 2016 23:16<br/>Latitude:52.66935<br/>Longitude:-1.068516]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.068516,52.669346,71.918518</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231855</name>
+			<description><![CDATA[6 June 2016 23:18<br/>Latitude:52.66821<br/>Longitude:-1.069628]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.069628,52.668209,64.755066</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231902</name>
+			<description><![CDATA[6 June 2016 23:19<br/>Latitude:52.66812<br/>Longitude:-1.069608]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.069608,52.668118,64.296631</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231906</name>
+			<description><![CDATA[6 June 2016 23:19<br/>Latitude:52.66812<br/>Longitude:-1.069608]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.069608,52.668118,64.296631</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231914</name>
+			<description><![CDATA[6 June 2016 23:19<br/>Latitude:52.66803<br/>Longitude:-1.069569]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.069569,52.668030,62.333923</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_231923</name>
+			<description><![CDATA[6 June 2016 23:19<br/>Latitude:52.66788<br/>Longitude:-1.069377]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.069377,52.667877,64.853760</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_232313</name>
+			<description><![CDATA[6 June 2016 23:23<br/>Latitude:52.66699<br/>Longitude:-1.065587]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.065587,52.666988,68.450806</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_232533</name>
+			<description><![CDATA[6 June 2016 23:25<br/>Latitude:52.66706<br/>Longitude:-1.063171]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.063171,52.667061,70.308044</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BABA_20160606_232605</name>
+			<description><![CDATA[6 June 2016 23:26<br/>Latitude:52.66709<br/>Longitude:-1.062537]]></description>
+			<styleUrl>#MarkerStyleBABA</styleUrl>
+			<Point>
+				<coordinates>-1.062537,52.667091,69.511902</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_232735</name>
+			<description><![CDATA[6 June 2016 23:27<br/>Latitude:52.66711<br/>Longitude:-1.061037]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.061037,52.667110,71.814880</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_232739</name>
+			<description><![CDATA[6 June 2016 23:27<br/>Latitude:52.66711<br/>Longitude:-1.061037]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.061037,52.667110,71.814880</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>No_ID_20160606_232746</name>
+			<description><![CDATA[6 June 2016 23:27<br/>Latitude:52.66711<br/>Longitude:-1.061037]]></description>
+			<styleUrl>#MarkerStyleNo_ID</styleUrl>
+			<Point>
+				<coordinates>-1.061037,52.667110,71.814880</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_232804</name>
+			<description><![CDATA[6 June 2016 23:28<br/>Latitude:52.66711<br/>Longitude:-1.061037]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.061037,52.667110,71.814880</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PIPI_20160606_232812</name>
+			<description><![CDATA[6 June 2016 23:28<br/>Latitude:52.66711<br/>Longitude:-1.061037]]></description>
+			<styleUrl>#MarkerStylePIPI</styleUrl>
+			<Point>
+				<coordinates>-1.061037,52.667110,71.814880</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#SessionStyle2</styleUrl>
+			<LineString>
+				<extrude>1</extrude>
+				<tessellate>1</tessellate>
+				<coordinates>-1.060795,52.667149,0.000000 -1.060942,52.667110,0.000000 -1.061046,52.667034,0.000000 -1.061198,52.667019,0.000000 -1.061348,52.667007,0.000000 -1.061497,52.667023,0.000000 -1.061652,52.667034,0.000000 -1.061819,52.667042,0.000000 -1.061965,52.667061,0.000000 -1.062116,52.667080,0.000000 -1.062122,52.667084,0.000000 -1.062122,52.667084,68.641479 -1.062286,52.667088,67.139771 -1.062443,52.667084,67.356201 -1.062596,52.667076,68.119080 -1.062751,52.667061,67.055359 -1.062905,52.667053,66.715088 -1.063066,52.667042,65.437744 -1.063227,52.667038,65.685547 -1.063382,52.667027,66.604736 -1.063545,52.667027,65.437988 -1.063693,52.667019,65.175110 -1.063851,52.667007,64.634521 -1.064013,52.666996,65.145752 -1.064165,52.666985,65.440979 -1.064328,52.666973,65.189331 -1.064475,52.666962,65.525574 -1.064641,52.666950,65.023193 -1.064804,52.666946,65.569397 -1.064959,52.666931,66.873291 -1.065124,52.666924,66.712646 -1.065272,52.666931,65.788269 -1.065430,52.666943,65.517456 -1.065508,52.667023,65.585205 -1.065610,52.667095,65.517334 -1.065722,52.667027,64.126587 -1.065772,52.666943,64.357666 -1.065839,52.666859,67.200378 -1.065921,52.666779,67.150269 -1.065985,52.666691,67.411377 -1.066065,52.666599,66.367432 -1.066122,52.666515,67.569641 -1.066191,52.666428,67.420532 -1.066271,52.666344,66.722168 -1.066335,52.666264,66.117371 -1.066409,52.666180,66.244263 -1.066552,52.666145,66.386108 -1.066698,52.666180,65.791321 -1.066830,52.666229,66.698608 -1.066956,52.666286,67.034607 -1.067052,52.666355,66.332947 -1.067153,52.666428,66.225403 -1.067264,52.666492,66.515747 -1.067347,52.666573,66.158875 -1.067396,52.666664,66.760437 -1.067447,52.666756,67.505249 -1.067532,52.666832,68.621887 -1.067641,52.666893,68.302856 -1.067787,52.666878,66.266052 -1.067817,52.666782,63.742188 -1.067833,52.666687,66.637634 -1.067850,52.666592,68.183777 -1.067925,52.666512,68.604065 -1.067842,52.666431,67.806152 -1.067734,52.666367,68.231934 -1.067651,52.666290,68.980835 -1.067564,52.666214,68.679565 -1.067470,52.666138,68.149414 -1.067368,52.666069,68.005493 -1.067247,52.666008,67.204041 -1.067104,52.665981,69.092224 -1.067009,52.665905,67.746460 -1.066962,52.665817,67.278687 -1.066852,52.665756,67.298218 -1.066735,52.665699,68.029358 -1.066618,52.665638,68.552307 -1.066508,52.665573,67.903259 -1.066405,52.665501,67.779602 -1.066297,52.665436,67.359497 -1.066167,52.665379,66.713623 -1.066054,52.665318,66.652039 -1.066007,52.665226,68.205444 -1.066014,52.665131,68.161255 -1.066046,52.665035,68.251709 -1.066088,52.664944,68.634949 -1.066106,52.664848,69.333496 -1.066013,52.664780,70.377441 -1.066026,52.664684,70.299011 -1.066062,52.664593,69.001648 -1.066092,52.664497,69.227783 -1.066240,52.664490,67.402466 -1.066390,52.664524,67.077026 -1.066532,52.664570,67.463440 -1.066680,52.664604,66.844421 -1.066815,52.664654,66.297974 -1.066977,52.664665,65.537170 -1.067126,52.664631,65.323730 -1.067277,52.664600,66.531189 -1.067433,52.664577,67.113892 -1.067599,52.664581,66.674438 -1.067747,52.664604,66.684570 -1.067891,52.664650,66.614868 -1.068033,52.664696,65.734741 -1.068180,52.664738,65.560303 -1.068326,52.664772,64.922974 -1.068485,52.664776,66.442322 -1.068640,52.664772,66.575134 -1.068796,52.664780,67.315430 -1.068953,52.664787,66.551025 -1.069100,52.664806,67.077454 -1.069251,52.664837,69.064148 -1.069388,52.664879,70.220337 -1.069509,52.664928,68.265320 -1.069638,52.664978,68.385498 -1.069753,52.665047,68.137817 -1.069882,52.665089,67.057617 -1.070020,52.665127,67.856934 -1.070170,52.665119,67.635193 -1.070324,52.665100,68.123535 -1.070437,52.665035,68.306763 -1.070468,52.664944,68.977173 -1.070406,52.664852,68.447510 -1.070334,52.664764,67.917603 -1.070281,52.664673,68.317505 -1.070241,52.664577,68.705994 -1.070257,52.664482,68.818604 -1.070371,52.664421,68.998901 -1.070480,52.664356,68.206360 -1.070580,52.664280,69.124268 -1.070655,52.664196,69.069519 -1.070782,52.664131,70.302429 -1.070888,52.664066,70.149231 -1.070980,52.663994,71.744995 -1.071062,52.663910,71.303345 -1.071114,52.663822,71.139526 -1.071169,52.663734,70.819702 -1.071203,52.663647,70.859192 -1.071248,52.663559,70.039185 -1.071282,52.663467,69.684265 -1.071310,52.663368,71.258606 -1.071379,52.663288,70.912415 -1.071445,52.663204,71.865356 -1.071500,52.663116,72.553833 -1.071540,52.663029,72.998108 -1.071575,52.662941,73.553894 -1.071641,52.662849,72.329102 -1.071688,52.662762,73.601685 -1.071744,52.662674,74.465637 -1.071791,52.662579,75.379822 -1.071856,52.662491,77.237366 -1.071893,52.662395,76.826355 -1.071933,52.662304,77.719116 -1.072030,52.662235,78.532471 -1.072096,52.662151,80.270874 -1.072118,52.662060,80.905029 -1.072169,52.661968,80.049561 -1.072246,52.661884,80.031738 -1.072262,52.661789,80.025391 -1.072295,52.661701,80.216370 -1.072373,52.661621,83.456665 -1.072493,52.661560,85.624695 -1.072637,52.661518,85.495361 -1.072777,52.661488,86.659485 -1.072920,52.661449,87.154175 -1.073053,52.661407,87.182739 -1.073183,52.661362,86.994629 -1.073326,52.661308,87.337769 -1.073459,52.661266,86.095825 -1.073570,52.661194,86.545776 -1.073706,52.661137,86.646301 -1.073857,52.661102,85.697510 -1.073998,52.661076,85.254272 -1.074146,52.661053,84.378479 -1.074304,52.661053,83.166504 -1.074450,52.661087,81.113281 -1.074596,52.661102,79.716431 -1.074743,52.661144,79.518494 -1.074848,52.661209,79.530396 -1.074990,52.661167,78.682495 -1.075055,52.661083,79.796936 -1.075068,52.660988,79.397034 -1.075084,52.660896,79.317139 -1.074989,52.660816,80.375183 -1.074908,52.660740,78.275574 -1.074839,52.660648,77.716614 -1.074783,52.660561,77.574219 -1.074768,52.660465,76.027222 -1.074809,52.660381,76.623962 -1.074891,52.660305,76.656067 -1.074946,52.660217,75.932556 -1.075022,52.660137,75.020935 -1.075096,52.660053,72.576721 -1.075165,52.659973,70.728882 -1.075217,52.659885,69.727173 -1.075266,52.659790,69.169434 -1.075259,52.659695,69.958008 -1.075226,52.659599,71.082275 -1.075372,52.659554,71.111877 -1.075440,52.659470,71.820374 -1.075323,52.659405,72.209351 -1.075223,52.659336,72.131592 -1.075176,52.659245,69.435120 -1.075185,52.659149,71.455383 -1.075252,52.659054,72.005127 -1.075283,52.658962,71.926331 -1.075321,52.658875,72.174438 -1.075416,52.658802,72.212585 -1.075484,52.658722,72.249268 -1.075430,52.658634,66.704407 -1.075298,52.658581,68.616333 -1.075155,52.658546,69.498413 -1.075154,52.658447,69.910645 -1.075138,52.658348,70.810974 -1.075139,52.658253,71.828857 -1.075222,52.658173,73.133118 -1.075377,52.658211,73.027161 -1.075527,52.658230,74.973938 -1.075678,52.658276,75.883789 -1.075829,52.658298,76.128235 -1.075982,52.658321,75.937378 -1.076124,52.658360,76.285950 -1.076239,52.658417,76.052307 -1.076348,52.658478,75.959351 -1.076445,52.658550,74.979675 -1.076545,52.658623,74.697388 -1.076646,52.658691,73.923096 -1.076748,52.658756,75.321960 -1.076836,52.658829,76.231201 -1.076890,52.658920,76.274170 -1.076919,52.659016,75.719421 -1.076931,52.659115,74.489197 -1.076939,52.659210,73.584595 -1.076900,52.659306,72.944946 -1.076824,52.659386,72.414978 -1.076732,52.659458,72.680969 -1.076611,52.659523,72.708679 -1.076486,52.659573,72.191406 -1.076375,52.659637,73.416504 -1.076256,52.659702,74.593018 -1.076162,52.659779,74.838745 -1.076070,52.659863,74.628723 -1.076012,52.659946,71.601013 -1.075956,52.660034,72.260986 -1.075890,52.660122,74.507874 -1.075868,52.660213,74.015320 -1.075814,52.660305,74.298706 -1.075742,52.660385,74.290588 -1.075715,52.660477,73.442017 -1.075729,52.660564,72.190125 -1.075750,52.660660,73.449707 -1.075727,52.660759,72.535645 -1.075653,52.660843,72.273315 -1.075522,52.660904,73.517395 -1.075372,52.660919,74.164551 -1.075326,52.661011,76.096313 -1.075270,52.661098,75.420105 -1.075211,52.661190,77.162598 -1.075163,52.661274,77.422180 -1.075128,52.661369,77.310425 -1.075193,52.661449,77.703552 -1.075262,52.661533,78.034363 -1.075314,52.661625,78.092224 -1.075351,52.661720,76.449280 -1.075367,52.661816,75.643555 -1.075357,52.661911,75.404785 -1.075351,52.662003,73.837769 -1.075298,52.662094,74.384644 -1.075233,52.662186,74.548523 -1.075169,52.662273,75.121704 -1.075087,52.662357,75.687744 -1.074982,52.662434,74.692078 -1.074854,52.662483,73.899292 -1.074781,52.662563,74.570496 -1.074616,52.662575,73.943054 -1.074460,52.662594,75.001953 -1.074320,52.662632,74.623352 -1.074226,52.662701,74.786255 -1.074117,52.662773,75.089294 -1.074027,52.662846,74.759888 -1.073915,52.662922,75.497925 -1.073811,52.662994,74.823303 -1.073720,52.663071,74.777527 -1.073611,52.663143,75.436523 -1.073506,52.663223,74.543274 -1.073411,52.663296,75.259338 -1.073305,52.663357,75.607910 -1.073224,52.663437,75.808411 -1.073138,52.663513,77.269592 -1.073062,52.663593,75.793030 -1.073011,52.663685,75.283997 -1.072963,52.663773,73.378784 -1.072915,52.663857,72.871887 -1.072850,52.663944,71.654907 -1.072786,52.664036,71.210327 -1.072732,52.664131,69.798096 -1.072696,52.664227,69.403809 -1.072685,52.664318,69.215332 -1.072648,52.664406,68.150452 -1.072601,52.664497,67.270081 -1.072556,52.664589,65.843506 -1.072526,52.664684,65.382629 -1.072503,52.664776,65.467712 -1.072468,52.664867,64.682983 -1.072442,52.664963,63.747620 -1.072394,52.665058,63.526917 -1.072339,52.665142,62.105408 -1.072266,52.665230,61.949707 -1.072197,52.665318,62.688171 -1.072099,52.665394,62.937134 -1.071994,52.665466,62.089478 -1.071842,52.665455,63.708008 -1.071702,52.665421,63.744202 -1.071553,52.665394,62.967712 -1.071405,52.665363,64.354126 -1.071251,52.665337,64.035828 -1.071095,52.665310,64.728943 -1.070948,52.665295,65.579651 -1.070791,52.665302,66.359985 -1.070668,52.665359,65.190491 -1.070636,52.665451,66.498535 -1.070695,52.665539,64.395447 -1.070756,52.665627,64.840332 -1.070812,52.665714,64.231506 -1.070866,52.665798,64.202454 -1.070919,52.665886,63.151672 -1.070963,52.665977,60.195007 -1.070987,52.666069,57.507019 -1.071011,52.666161,58.279846 -1.071046,52.666252,57.761536 -1.071066,52.666344,58.693787 -1.071103,52.666435,60.511047 -1.071120,52.666527,60.601074 -1.071143,52.666622,61.659729 -1.071163,52.666714,61.514954 -1.071188,52.666813,62.454163 -1.071211,52.666908,61.914734 -1.071236,52.667000,61.415894 -1.071261,52.667091,61.857056 -1.071278,52.667191,62.295532 -1.071293,52.667282,62.330139 -1.071298,52.667377,62.681458 -1.071269,52.667465,62.751953 -1.071242,52.667561,63.697815 -1.071222,52.667664,64.917114 -1.071230,52.667751,64.644165 -1.071243,52.667850,63.959167 -1.071239,52.667946,63.343140 -1.071240,52.668041,62.648438 -1.071236,52.668137,62.388733 -1.071237,52.668232,63.094604 -1.071223,52.668331,63.393433 -1.071213,52.668430,62.677429 -1.071218,52.668530,61.726868 -1.071218,52.668629,60.522949 -1.071183,52.668720,61.574829 -1.071147,52.668808,59.245483 -1.071154,52.668900,60.317871 -1.071188,52.668995,60.882080 -1.071202,52.669090,59.608521 -1.071304,52.669163,60.984558 -1.071389,52.669243,61.578796 -1.071451,52.669327,59.036804 -1.071498,52.669415,59.050659 -1.071560,52.669498,57.996094 -1.071613,52.669590,58.919556 -1.071668,52.669674,60.122192 -1.071730,52.669762,60.432556 -1.071791,52.669849,60.381714 -1.071851,52.669937,60.853943 -1.071792,52.670021,62.631165 -1.071675,52.670094,63.456299 -1.071558,52.670151,63.195862 -1.071444,52.670219,64.742126 -1.071319,52.670273,65.043091 -1.071198,52.670334,63.588562 -1.071064,52.670376,62.542358 -1.070921,52.670338,62.796448 -1.070792,52.670292,62.368835 -1.070654,52.670238,61.851807 -1.070517,52.670200,63.877502 -1.070474,52.670288,65.981201 -1.070607,52.670341,68.943970 -1.070729,52.670395,68.465820 -1.070802,52.670479,68.927917 -1.070695,52.670551,69.957703 -1.070570,52.670609,70.401978 -1.070434,52.670654,70.260742 -1.070308,52.670704,69.665588 -1.070177,52.670750,70.354675 -1.070048,52.670799,71.155945 -1.069908,52.670849,70.635498 -1.069779,52.670895,71.091003 -1.069647,52.670944,72.048889 -1.069516,52.670998,72.749023 -1.069394,52.671051,71.732910 -1.069254,52.671104,72.099365 -1.069120,52.671165,71.813049 -1.068999,52.671227,71.937195 -1.068886,52.671291,72.387451 -1.068782,52.671360,71.577942 -1.068688,52.671432,73.457336 -1.068549,52.671482,74.017883 -1.068433,52.671539,73.723389 -1.068359,52.671616,72.882080 -1.068291,52.671700,72.048462 -1.068238,52.671795,71.874634 -1.068228,52.671894,71.129578 -1.068219,52.671989,70.470825 -1.068198,52.672081,71.369507 -1.068148,52.672173,72.495117 -1.068107,52.672260,72.561829 -1.068059,52.672352,73.262878 -1.068000,52.672436,74.549438 -1.067933,52.672523,74.573608 -1.067870,52.672607,73.966553 -1.067788,52.672691,73.605286 -1.067653,52.672726,75.578430 -1.067512,52.672688,76.712036 -1.067365,52.672649,76.342285 -1.067215,52.672611,76.260803 -1.067052,52.672607,76.133240 -1.066913,52.672573,76.065063 -1.066763,52.672539,75.590881 -1.066625,52.672501,75.871948 -1.066490,52.672462,74.903259 -1.066354,52.672424,74.462769 -1.066201,52.672394,74.081726 -1.066060,52.672363,73.126953 -1.065914,52.672321,73.665771 -1.065776,52.672283,74.068298 -1.065630,52.672245,73.971313 -1.065484,52.672207,74.354797 -1.065420,52.672119,73.219177 -1.065515,52.672047,72.084595 -1.065597,52.671967,72.397217 -1.065680,52.671894,71.097473 -1.065762,52.671818,70.799805 -1.065851,52.671734,70.756653 -1.065932,52.671658,71.122375 -1.066003,52.671574,72.035706 -1.066068,52.671494,71.457397 -1.066144,52.671406,71.086121 -1.066220,52.671326,70.888062 -1.066288,52.671242,70.843262 -1.066379,52.671162,71.476807 -1.066457,52.671082,71.539612 -1.066535,52.670998,70.807007 -1.066614,52.670910,70.147705 -1.066695,52.670834,70.648438 -1.066773,52.670753,71.007935 -1.066848,52.670673,70.677551 -1.066934,52.670593,70.218750 -1.067027,52.670513,69.584045 -1.067109,52.670437,69.340332 -1.067193,52.670361,68.746948 -1.067275,52.670280,69.165405 -1.067364,52.670197,69.423279 -1.067453,52.670124,69.319946 -1.067545,52.670052,69.027161 -1.067650,52.669975,68.061829 -1.067749,52.669899,69.213806 -1.067850,52.669819,69.265320 -1.067957,52.669743,68.777954 -1.068053,52.669670,68.718750 -1.068161,52.669594,68.194214 -1.068290,52.669537,68.145386 -1.068435,52.669579,67.145996 -1.068568,52.669632,67.363464 -1.068696,52.669678,66.929504 -1.068641,52.669594,69.175659 -1.068527,52.669518,69.770264 -1.068461,52.669437,71.659180 -1.068517,52.669346,71.918518 -1.068603,52.669270,69.319214 -1.068698,52.669189,69.130371 -1.068777,52.669102,65.713745 -1.068844,52.669014,63.102661 -1.068940,52.668945,63.093018 -1.069056,52.668877,62.581787 -1.069182,52.668816,62.892761 -1.069298,52.668755,63.227478 -1.069388,52.668682,61.906494 -1.069487,52.668606,64.220459 -1.069569,52.668522,65.208069 -1.069661,52.668449,64.055786 -1.069761,52.668377,64.738342 -1.069683,52.668293,67.635498 -1.069628,52.668209,64.755066 -1.069608,52.668118,64.296631 -1.069569,52.668030,62.333923 -1.069500,52.667938,64.157288 -1.069377,52.667877,64.853760 -1.069261,52.667820,66.880615 -1.069113,52.667789,64.275574 -1.068969,52.667747,65.851196 -1.068826,52.667709,67.770630 -1.068681,52.667690,68.220886 -1.068510,52.667690,70.093567 -1.068362,52.667698,69.487061 -1.068208,52.667698,65.381897 -1.068053,52.667652,66.464294 -1.067888,52.667622,66.006592 -1.067739,52.667595,67.004578 -1.067595,52.667549,68.819336 -1.067455,52.667515,67.750427 -1.067308,52.667461,65.339233 -1.067172,52.667423,66.052429 -1.067036,52.667385,63.428040 -1.066903,52.667347,63.505432 -1.066759,52.667313,65.112061 -1.066620,52.667282,66.185425 -1.066469,52.667229,63.998779 -1.066338,52.667187,66.005249 -1.066172,52.667187,64.620911 -1.066015,52.667168,66.664307 -1.065874,52.667137,66.906250 -1.065718,52.667122,68.005554 -1.065580,52.667080,67.457275 -1.065587,52.666988,68.450806 -1.065466,52.666924,70.397156 -1.065312,52.666924,69.082764 -1.065153,52.666916,68.874390 -1.065003,52.666920,69.149658 -1.064852,52.666920,70.390198 -1.064694,52.666927,71.324158 -1.064540,52.666931,71.946411 -1.064397,52.666958,71.067993 -1.064240,52.666973,74.900208 -1.064090,52.666981,72.804321 -1.063941,52.666981,70.513062 -1.063781,52.666988,70.904724 -1.063627,52.666992,71.572510 -1.063477,52.667023,70.912781 -1.063319,52.667049,69.815796 -1.063171,52.667065,70.308044 -1.062993,52.667068,71.097900 -1.062840,52.667068,68.715149 -1.062693,52.667088,69.308411 -1.062537,52.667091,69.511902 -1.062372,52.667091,67.835205 -1.062224,52.667076,69.156982 -1.062064,52.667099,69.680054 -1.061912,52.667080,72.125854 -1.061755,52.667068,71.537048 -1.061601,52.667065,70.400574 -1.061450,52.667057,69.668274 -1.061299,52.667038,71.044922 -1.061150,52.667038,72.227844 -1.061037,52.667110,71.814880 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
