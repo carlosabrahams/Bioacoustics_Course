@@ -56,4 +56,4 @@ This course is intended to give an introduction to acoustic methods for ecology 
 
 
 
-**Important note:** You'll need to download data folders during the course from GitHub.  An easy way to do this is using https://downgit.github.io. Simply enter the URL for the GitHub folder on this webpage, and it will create a zip file for you.
+**Important note:** You'll need to download data folders during the course from GitHub.  An easy way to do this is using https://download-directory.github.io/. Simply enter the URL for the GitHub folder on this webpage, and it will create a zip file for you.
